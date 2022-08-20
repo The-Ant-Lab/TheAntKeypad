@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-01-23T08:22:11Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "mini_keyboard_switchs"
+        },
+        "Owner": "Mattia Monetti <mattia.monetti@gmail.com>",
+        "Size": {
+            "X": 92.6975,
+            "Y": 39.36
+        }
+    }
+}

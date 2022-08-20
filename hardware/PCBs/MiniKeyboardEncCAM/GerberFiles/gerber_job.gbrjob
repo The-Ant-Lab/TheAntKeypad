@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-07-03T21:04:23Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "keypad_encoder"
+        },
+        "Owner": "Mattia Monetti <mattia.monetti@gmail.com>",
+        "Size": {
+            "X": 30.48,
+            "Y": 30.48
+        }
+    }
+}
